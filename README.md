@@ -41,13 +41,13 @@ python facial_recognition.py
 ```
 
 2. The program will display a menu with the following options:
-
+```
    1. Capture images for person 1
    2. Capture images for person 2
    3. Train the model
    4. Identify person
    5. Quit
-
+```
 3. Select option 1 or 2 to capture images for the respective individuals. The program will prompt you to enter the person's name and capture 100 images using the webcam.
 
 4. After capturing images for both individuals, select option 3 to train the facial recognition model. The program will prompt you to enter names for person 1 and person 2, and it will save the trained model with a personalized filename.
